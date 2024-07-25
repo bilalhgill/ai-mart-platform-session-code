@@ -17,7 +17,7 @@
 
 
 ## 6. Set Product and Consumer 
-for Product Evens
+for Product Events
 
 
 ## 7. Event 1: Create Product = The Consumer
