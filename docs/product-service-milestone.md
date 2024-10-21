@@ -12,7 +12,7 @@
 
 ## 4. Add Product CRUD Class
 
-bilal hameed
+
 
 ## 5. Create Product API Routes
 
@@ -30,3 +30,6 @@ adds entry to database.
 
 ## 9. Add Product Reviews Table and 
 Revise the Above Steps for it
+
+
+# By Bilal Hameed
